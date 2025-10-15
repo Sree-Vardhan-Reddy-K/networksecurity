@@ -1,0 +1,10 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scipy
+scikit-learn
+python-dotenv
+pymongo
