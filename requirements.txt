@@ -8,3 +8,7 @@ scipy
 scikit-learn
 python-dotenv
 pymongo
+setuptools
+certifi
+
+# -e .
